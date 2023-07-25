@@ -1,0 +1,55 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600;700&display=swap");
+body{
+    background-color: #4158D0;
+    background-image: linear-gradient(to right, #4158D0 0%, #C850C0 46%, #FFCC70 100%);
+    /* background-repeat: no-repeat; */
+
+}
+.header {
+    margin-left: 45%;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 20px;
+}
+.details{
+    outline: 2px solid;
+    height: 250px;
+    width:40%;
+    margin-left: 27%;
+}
+.details .first input{
+    margin-left: 35%;
+    height: 30px;
+    width: 30%;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+}
+.details .last input{
+    margin-left: 35%;
+    height: 30px;
+    width: 30%;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+}
+.details .email input{
+    margin-left: 35%;
+    height: 30px;
+    width: 30%;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+}
+.details .pass input{
+    margin-left: 35%;
+    height: 30px;
+    width: 30%;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+}
+.checkbox{
+    margin-left: 500px;
+    margin-top: -57px;
+}
+.sign input{
+    height: 20%;
+    width: 20%;
+    margin-top: 5%;
+}
